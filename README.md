@@ -84,8 +84,8 @@ The backend server will typically run on http://localhost:8080.
 Created by **Dava Ataya**.
 If you have any questions about this project, the architecture, or potential collaborations, feel free to reach out!
 
-**LinkedIn**: [Insert your LinkedIn URL here]
+**LinkedIn**: https://www.linkedin.com/in/davaataya/
 
-**Email**: [Insert your Email here]
+**Email**: davaatayaa@gmail.com
 
 _This project is for portfolio and demonstration purposes. Please ensure you secure all environment variables and Firebase JSON keys before deploying to a public server._
